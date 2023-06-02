@@ -18,7 +18,7 @@ Tech:
 
 Home <br>
 
-<img src="#> <br>
+<img src="#"> <br>
 
 
 Bio <br>
