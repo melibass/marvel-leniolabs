@@ -1,10 +1,47 @@
 *{
     color: white;
+    box-sizing: border-box;
+    margin: 2px;
+    font-family: 'Marvel', sans-serif;
 }
-div.header-title{
-    font-family: 'DRagonlord', sans-serif;
+body{
+    background-color: #252525;
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 15px 20px;
+    background-color: #333;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+#navbar{
+    
+    width: 100%;
 }
 
-body{
-    background-color: black;
+div.topbar{
+    display: flex;
+    justify-content: space-between;
+}
+div.bottombar{
+    display: flex;
+    justify-content: space-between;
+}
+.strange-logo{
+    width: 100px;
+    height: 100px;
+}
+.marvel-logo{
+    width: 30%;
+    background-color: white;
+}
+div.header-title, h1{
+    font-family: 'DRagonlord', sans-serif;
+    font-weight: normal;
+}
+
+div.header-title{
+    font-size: 4rem;
 }
