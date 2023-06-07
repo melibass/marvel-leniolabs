@@ -4,17 +4,19 @@
     margin: 2px;
     font-family: 'Marvel', sans-serif;
 }
-body{
-    background-color: #252525;
+body.grad{
+    background: linear-gradient(0deg, rgba(147,15,36,1) 0%, rgba(51,51,51,1) 60%);
 }
+
 header{
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%;
     padding: 15px 20px;
     background-color: #333;
     font-size: 20px;
     color: #FFFFFF;
+    z-index: 100;
 }
 #navbar{
     
@@ -44,4 +46,7 @@ div.header-title, h1{
 
 div.header-title{
     font-size: 4rem;
+}
+.banner img{
+    width: 100%
 }
