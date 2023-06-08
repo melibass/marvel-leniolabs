@@ -50,3 +50,7 @@ div.header-title{
 .banner img{
     width: 100%
 }
+
+section{
+    scroll-margin-top: 180px;
+}
