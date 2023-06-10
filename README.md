@@ -3,6 +3,19 @@
 
 ## Marvel Universe - Doctor Strange##
 
+Tasks:
+
+Create a Landing Page for a Marvel Character
+
+Must have: 
+- Header, body, footer :heavy_check_mark:
+- Title, description, button redirecting another page :heavy_check_mark:
+- Background :heavy_check_mark:
+- At least one image :heavy_check_mark:
+
+Optional:
+- Css animation :heavy_check_mark:
+- Responsive design :heavy_check_mark:
 <br>
 Tech:
 
@@ -16,13 +29,14 @@ Tech:
 ## Views ##
 
 
-Home <br>
+Desktop View<br>
 
-<img src="#"> <br>
+<img src="https://ibb.co/d2HNYDk"> <br>
 
 
-Bio <br>
-<img src="#">
+Mobile view <br>
+<img src="https://ibb.co/bgRcMvX">
+
 
 
 
