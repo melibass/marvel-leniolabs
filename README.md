@@ -1,7 +1,7 @@
 # **LENIOLABS PROJECT** 
 
 
-## Marvel Universe - Doctor Strange##
+## Marvel Universe - Doctor Strange ##
 
 Tasks:
 
@@ -31,11 +31,13 @@ Tech:
 
 Desktop View<br>
 
-<img src="https://ibb.co/d2HNYDk"> <br>
+
+
+<img src="https://github.com/melibass/marvel-leniolabs/blob/main/public/img/desktop.png"> <br>
 
 
 Mobile view <br>
-<img src="https://ibb.co/bgRcMvX">
+<img src="https://i.ibb.co/zhHqT2Z/mobile.png">
 
 
 
