@@ -30,6 +30,9 @@ header{
     z-index: 100;
 }
 
+h1.header-title{
+    display: none;
+}
 div.header-title, 
     img.marvel-logo
     {
@@ -46,7 +49,7 @@ div.header-title,
     
     width: 100%;
 }
-h1{
+h2{
     font-size: 36px;
     padding: 4px;
     margin-bottom: 3px;
@@ -122,16 +125,20 @@ footer a:hover{
     border: none;
     border-radius: 6px;
     background-color: rgb(147, 15, 36);
+    padding: 4px;
 }
 @media only screen and (min-width: 768px) {
     *{
         font-size: 20px;
     }
 
-    div.header-title, 
+    h1.header-title, 
     img.marvel-logo, 
     div.bottombar{
         display: flex
+    }
+    h1.header-title{
+        font-size: 60px;
     }
     div.topbar{
         display: flex;
